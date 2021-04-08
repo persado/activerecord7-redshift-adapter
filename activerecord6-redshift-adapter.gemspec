@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.name = 'activerecord6-redshift-adapter'
-  s.version = '1.1.3'
+  s.version = '1.1.5'
   s.summary = 'Amazon Redshift adapter for ActiveRecord '
   s.description = 'Amazon Redshift _makeshift_ adapter for ActiveRecord 6.'
   s.license = 'MIT'
