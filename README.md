@@ -1,18 +1,15 @@
-activerecord6-redshift-adapter
+activerecord7-redshift-adapter
 ==============================
 
-Amazon Redshift adapter for ActiveRecord 6 (Rails 6).
-I forked the project from https://github.com/ConsultingMD/activerecord5-redshift-adapter
-
-Thanks for the auhors.
+Built on https://github.com/persado/activerecord6-redshift-adapter
 
 Usage
 -------------------
 
-For Rails 6, write following in Gemfile:
+For Rails 7, write following in Gemfile:
 
 ```ruby
-gem 'activerecord6-redshift-adapter'
+gem 'activerecord7-redshift-adapter'
 ```
 
 In database.yml
