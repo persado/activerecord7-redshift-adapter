@@ -2,7 +2,7 @@ activerecord7-redshift-adapter
 ==============================
 
 Amazon Redshift adapter for ActiveRecord 7 (Rails 7).
-I forked the project from https://github.com/kwent/activerecord6-redshift-adapter
+I forked the project from https://github.com/pennylane-hq/activerecord7-redshift-adapter
 
 Thanks for the auhors.
 
